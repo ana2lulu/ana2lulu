@@ -1,5 +1,7 @@
 Hello, I'm Lulu ♥︎ᨒ
 
+https://cdn.picrew.me/shareImg/org/202309/338224_81ZT4QUG.png
+
 studying 
 
 ✹ Java Script
@@ -7,4 +9,6 @@ studying
 ✹ Front-End
 ✹ Banco De Dados
 
- https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blueberry
+<div>
+ 
+</div>
