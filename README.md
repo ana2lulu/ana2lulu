@@ -1,6 +1,9 @@
 Hello, I'm Lulu ♥︎ᨒ
 
-https://cdn.picrew.me/shareImg/org/202309/338224_81ZT4QUG.png
+<div>
+ https://cdn.picrew.me/shareImg/org/202309/338224_81ZT4QUG.png
+</div>
+
 
 studying 
 
@@ -9,6 +12,3 @@ studying
 ✹ Front-End
 ✹ Banco De Dados
 
-<div>
- 
-</div>
